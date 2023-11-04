@@ -1,8 +1,4 @@
-const http = require('http');
+const fs = require('fs');
 
-// TODO: Create an HTTP server
-
-// TODO: Listen on port 3000
-
-// DO NOT EDIT BELOW THIS LINE (Uncomment it once you are done with your code)
+// TODO: Write the message "Hello, World!" to the file "output.txt"
 
